@@ -7,20 +7,20 @@ This is Turborepo starter with shadcn/ui pre-configured.
 > [!NOTE]
 > This example uses `pnpm` as package manager.
 
-[npm version](https://github.com/dan5py/jolt-connect/tree/npm)
+[npm version](https://github.com/CloudDev777/Google_OtherPlatform_integration_Automation/tree/npm)
 
 ## Using this example   
 
 Clone the repository:
 
 ```sh
-git clone https://github.com/kevin-t11/jolt-connect.git
+git clone https://github.com/CloudDev777/Google_OtherPlatform_integration_Automation.git
 ```
 
 Install dependencies:
 
 ```sh
-cd jolt-connect
+cd Google_OtherPlatform_integration_Automation
 pnpm install
 ```
 
